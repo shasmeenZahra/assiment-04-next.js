@@ -1,19 +1,19 @@
 const Portfolio = () => {
     const projects = [
       {
-        title: 'Project 1',
-        description: 'A web development project using ext.js, React and Tailwind CSS.',
-        link: 'https://vercel.com/shasmeen-zahras-projects/next-js-assiment-02-fr7d',
+        title: "Project 1",
+        description: "A web development project using ext.js, React and Tailwind CSS.",
+        link: "https://vercel.com/shasmeen-zahras-projects/next-js-assiment-02-fr7d",
       },
       {
-        title: 'Project 2',
-        description: 'A web development project using Typescript , Html and  CSS.',
-        link: 'https://vercel.com/shasmeen-zahras-projects/new-milestone-05-by-shasmeen-hr5c',
+        title: "Project 2",
+        description: "A web development project using Typescript , Html and  CSS.",
+        link: "https://vercel.com/shasmeen-zahras-projects/new-milestone-05-by-shasmeen-hr5c",
       },
       {
-        title: 'Project 3',
-        description: 'A personal portfolio built with HTML, CSS, and TypeScript.',
-        link: 'https://vercel.com/shasmeen-zahras-projects/milestone-3-by-shasmeen-zahra-fq95',
+        title: "Project 3",
+        description: "A personal portfolio built with HTML, CSS, and TypeScript.",
+        link: "https://vercel.com/shasmeen-zahras-projects/milestone-3-by-shasmeen-zahra-fq95",
       },
     ];
   
